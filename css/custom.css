@@ -42,6 +42,10 @@ footer a:hover{
 	color: #323232;
 }
 
+.font-awe-padded{
+	padding: 2px;
+}
+
 @media only screen and (min-width: 900px) {
 	.header-logo {
 	margin-top: 70px;
