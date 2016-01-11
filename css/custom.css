@@ -46,6 +46,11 @@ footer a:hover{
 	padding: 2px;
 }
 
+.font-awe-padded-2{
+	padding: 2px;
+	padding-right: 30px;
+}
+
 @media only screen and (min-width: 900px) {
 	.header-logo {
 	margin-top: 70px;
